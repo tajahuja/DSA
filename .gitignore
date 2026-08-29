@@ -1,0 +1,16 @@
+# Compiled C++ executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+
+# Build directories
+build/
+bin/
+
+# VS Code settings
+.vscode/
